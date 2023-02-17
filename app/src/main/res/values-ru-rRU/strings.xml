@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start">СТАРТ</string>
+    <string name="record">Рекорд</string>
+    <string name="setting">Настройки</string>
+    <string name="menu">МЕНЮ</string>
+    <string name="sound">Звук</string>
+    <string name="vibration">Вибрация</string>
+    <string name="language">Язык</string>
+    <string name="result">РЕЗУЛЬТАТ</string>
+    <string name="missed">Пропущено</string>
+</resources>

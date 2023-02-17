@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lots of balls</string>
+    <string name="start">Start</string>
+    <string name="record">Record</string>
+    <string name="setting">Setting</string>
+    <string name="menu">Menu</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="language">Language</string>
+    <string name="result">RESULT</string>
+    <string name="missed">MISSED</string>
+</resources>
